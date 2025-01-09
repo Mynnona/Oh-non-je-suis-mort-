@@ -2,6 +2,7 @@
 Une fiction intéractive proposant un voyage dans les Enfers.
 
 **Résumé du jeu**
+
 Vous êtes mort.
 Eh oui, votre âme à quitté votre armure charnelle et a été amené dans le royaume d'Hadès, les Enfers. Vous démarrez votre dernier voyage en Érèbe, et selon vos choix, vous parviendrez peut-être à obtenir le privilège de séjourner dans les Champs Élysées, ou dans le pire des cas, dans le Tartare. 
 
@@ -9,13 +10,16 @@ Le but ludique est de développer une curiosité pour la mythologie grecque en e
 
 C'est une fiction interactive, on avance dans l'histoire en cliquant sur les différents choix proposés.
 
-** Capture d'écran**
+**Capture d'écran**
+
 ![Capture d'écran 2025-01-09 181420](https://github.com/user-attachments/assets/4fe55e25-de40-40c6-b3e4-79dfc1071958)
 
 **Procédure de lancement**
+
 Jouer directement en ligne : 
  
 **Modules, libraires, scripts utilisés**
+
 Fait en suivant les instructions sur le site officiel de Ink pour créer une fiction intéractive : https://www.inklestudios.com/ink/web-tutorial/
 Langage utilisé : Ink
 Polices prises sur https://fonts.google.com/
@@ -30,12 +34,14 @@ Obsidian : logiciel qui a permis de répertorier et d'organiser les différentes
 - pixabay.com : image de couverture
 - Word : correction de l'orthographe
 
-Copyrights, informations de licence, références
+**Copyrights, informations de licence, références**
+
 Image de couverture prise dans une banque d'image libre de droit : https://pixabay.com/fr/illustrations/la-grotte-bleu-fonc%C3%A9-nuit-rochers-4987891/
 Licence de Ink : MIT License, Copyright (c) 2025 inkle Ltd., https://github.com/inkle/ink/blob/master/LICENSE.txt
 Licence de l'image : https://pixabay.com/fr/service/license-summary/
 
 **Sources utilisées**
+
 https://fr.m.wikipedia.org/wiki/Ébène
 https://fr.wikipedia.org/wiki/%C3%89aque
 https://fr.wikipedia.org/wiki/%C3%89ole
@@ -60,6 +66,7 @@ https://www.dieux-et-mytho.fr/mythologie-grecque/hades/
 https://www.france-mineraux.fr/mythologies/mythologie-grecque/symboles-attributs-grecs/casque-d-hades/
 
 **Contexte de développement**
+
 Ce jeu a été fait par Julie Steiner sur Ink, dans le cadre du cours de "Fiction interactive" A2024, donné par le professeur Isaac Pante (SLI, Lettres, UNIL), comme cours interdisciplinaire en SSP, Psychologie, Unil.
 
 Limites 

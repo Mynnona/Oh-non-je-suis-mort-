@@ -1,4 +1,4 @@
-# Oh-non-je-suis-mort-
+# **Oh non, je suis mort !**
 Une fiction intéractive proposant un voyage dans les Enfers.
 
 Résumé du jeu:

@@ -31,7 +31,7 @@ Polices prises sur https://fonts.google.com/
 Outils utilisés :
 - Visual code : logiciel de codage, utilisé pour modifier Le fichier "Style" et ainsi travailler sur la forme et le rendu, en CSS
 Obsidian : logiciel qui a permis de répertorier et d'organiser les différentes informations récoltées dans différentes sources internet.
-![image](https://github.com/user-attachments/assets/909461d6-7874-480a-83ae-5f6136cddd6a)
+![Pasted image 20250109211938](https://github.com/user-attachments/assets/2a097e87-1926-42f6-a34f-ab66c8134b52)
 - ChatGTP : pour obtenir un code qui permette de modifier la couleur que d'une partie d'un texte : <p> <span CLASS :"nom_de_la_classe">texte</span> </p>, https://chatgpt.com/
 - pixabay.com : image de couverture
 - Word : correction de l'orthographe

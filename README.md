@@ -16,7 +16,8 @@ C'est une fiction interactive, on avance dans l'histoire en cliquant sur les dif
 
 **Procédure de lancement**
 
-Jouer directement en ligne : 
+Jouer directement en ligne : https://mynnona.itch.io/oh-non-je-suis-mort
+Attention, le jeu ne se lance pas automatiquement, appuyer sur "restart" en haut de l'écran pour commencer la partie.
  
 **Modules, libraires, scripts utilisés**
 

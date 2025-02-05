@@ -92,8 +92,3 @@ https://www.france-mineraux.fr/mythologies/mythologie-grecque/symboles-attributs
 
 Ce jeu a été fait par Julie Steiner sur Ink, dans le cadre du cours de "Fiction interactive" A2024, donné par le professeur Isaac Pante (SLI, Lettres, UNIL), comme cours interdisciplinaire en SSP, Psychologie, Unil.
 
-Limites 
-
-Les limites de votre travail ainsi que les possibilités d’amélioration doivent apparaître comme « issues », assorties des étiquettes adéquates (bug, enhancement, etc.) et non dans le Readme. Gardez à l’esprit que cette description est destinée à d’autres personnes intéressées par votre code, non à l'enseignant.
-Votre répertoire Github doit porter un nom qui facilite l'identification unique de votre travail ; ce nom peut être pensé comme une "marque" (par exemple : pas de "projet-visualisation" mais plutôt "statistique-vente-armes" ou "weaponview")
-Attention : aucun matériel soumis à droit d’auteur (images, sons, etc.) ne doit être déposé sur une archive publique. Si du matériel soumis à droit d’auteur est au coeur de votre travail, merci de créer un Github privé (choix "private" au moment de la création).
